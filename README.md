@@ -4,7 +4,7 @@
 This Power BI report provides a comprehensive overview of Blinkit's sales performance. It includes analysis by product category, time period, location (city/region), and promotional campaign. The dashboard is designed to help business teams monitor KPIs, identify trends, and optimize inventory and marketing efforts.
 
 ## 📁 File Name
-- `Internship_Power_BI.pbix`
+- `powerbi-blinkit-project.pbix`
 
 ## 📅 Last Updated
 - July 10, 2025
