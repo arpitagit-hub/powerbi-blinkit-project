@@ -5,10 +5,6 @@ This Power BI report provides a comprehensive overview of Blinkit's sales perfor
 
 ## 📁 File Name
 - `powerbi-blinkit-project.pbix`
-
-## 📅 Last Updated
-- July 10, 2025
-
 ## 📂 Data Sources
 - **Kaggle** — `https://www.kaggle.com/datasets/akxiit/blinkit-sales-dataset/data`  
 
@@ -35,8 +31,8 @@ This Power BI report provides a comprehensive overview of Blinkit's sales perfor
 - Campaign ROI
 
 ## 🔐 Access & Ownership
-- **Report Owner:** Subhankar Sarkar 
-- **Maintainer:** Subhankar Sarkar
+- **Report Owner:** Arpita Chakraborty 
+- **Maintainer:** Arpita Chakraborty
 - **Workspace:** `Blinkit Business Analytics`
 
 ## ⚠️ Known Issues
